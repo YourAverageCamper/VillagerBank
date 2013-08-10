@@ -1,0 +1,11 @@
+name: VillagerBank
+version: 1.0
+description: Bank with villagers
+main: me.zeus.VillagerBank.VillagerBank
+commands:
+  bank: 
+    description: Spawns a villager bank
+    syntax: /bank
+  cash:
+    description: Cash
+    syntax: /cash [arg]
